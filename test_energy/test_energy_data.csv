@@ -1,4 +1,4 @@
-Building Type,Square Footage,Number of Occupants,Appliances Used,Average Temperature,Day of Week,Energy Consumption
+edificio,pies_cuadrados,numero_ocupantes,aparatos,temperatura,dia,energia
 Residential,24563,15,4,28.52,Weekday,2865.57
 Commercial,27583,56,23,23.07,Weekend,4283.8
 Commercial,45313,4,44,33.56,Weekday,5067.83
